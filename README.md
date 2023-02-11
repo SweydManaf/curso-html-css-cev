@@ -8,6 +8,18 @@
  </a>
 </div>
  
+ <p align="center">
+  <img src="https://img.shields.io/badge/made%20by-SWEYD%20MANAF-0000FE?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sweydmanaf/curso-html-css-cev?color=0000FE&style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sweydmanaf/curso-html-css-cev?color=0000FE&style=flat-square">
+  <a href="https://github.com/sweydmanaf/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sweydmanaf/curso-html-css-cev?color=0000FE&style=flat-square">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-0000FE?style=flat-square">
+  </a>
+</p>
+ 
  ## Tecnologias Estudadas
 
 <div style="display: inline_block" align="center"><br>
