@@ -31,6 +31,7 @@ NB: Posteriormente serão exibidos os certificados.
 
 ## Projetos desenvolvidos
 1. [Projeto Android](https://github.com/SweydManaf/projeto-android)
+1. <a href="https://github.com/SweydManaf/projeto-android" target="_blank">Projeto Android</a>
 1. [Projeto Cordel](https://github.com/SweydManaf/projeto-cordel)
 1. [Projeto Redes Sociais](https://github.com/SweydManaf/projeto-social)
 
