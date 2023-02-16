@@ -2,12 +2,17 @@
 
 /* Todas as demais midias*/
 
-/* Typical Device breakpoints
+/* 
+
+Typical Device breakpoints
+
 Pequenas telas: até 600px
 Celular: de 600px até 768px
 Tablet: 768px até 992px
 Desktop: 992px até 1200px
-Grandes telas: acima de 1200px*/
+Grandes telas: acima de 1200px 
+
+*/
 
 /* IMPRESSÃO */
 @media print {
@@ -31,13 +36,9 @@ Grandes telas: acima de 1200px*/
     }
 
     img#phone{display: none;}
-
     img#tablet{display: block;}
-
     img#print{display: none;}
-
     img#pc{display: none;}
-
     img#tv{display: none;}
 }
 
@@ -48,13 +49,9 @@ Grandes telas: acima de 1200px*/
     }
 
     img#phone{display: none;}
-
     img#tablet{display: block;}
-
     img#print{display: none;}
-
     img#pc{display: none;}
-
     img#tv{display: none;}
 }
 
@@ -65,13 +62,9 @@ Grandes telas: acima de 1200px*/
     }
 
     img#phone{display: none;}
-
     img#tablet{display: none;}
-
     img#print{display: none;}
-
     img#pc{display: block;}
-
     img#tv{display: none;}
 }
 /* GRANDES TELAS */
@@ -85,12 +78,8 @@ Grandes telas: acima de 1200px*/
     }
 
     img#phone{display: none;}
-
     img#tablet{display: none;}
-
     img#print{display: none;}
-
     img#pc{display: none;}
-
     img#tv{display: block;}
 }
