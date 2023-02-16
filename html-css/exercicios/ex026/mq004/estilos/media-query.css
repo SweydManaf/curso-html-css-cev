@@ -19,9 +19,11 @@ Grandes telas: acima de 1200px
     *{
         font-family: 'Courier New', Courier, monospace;
     }
+
     body{
         background-image: url(../imagens/back-tablet.jpg); /* desnecessario*/
     }
+
     main{
         border: 2px solid black;
     }
@@ -30,6 +32,7 @@ Grandes telas: acima de 1200px
         content: "Essa impressão foi feita através do site www.cursoemvideo.com";
         text-decoration: overline;
     }
+    
     main h1{
         text-shadow: none;
         color: black;
