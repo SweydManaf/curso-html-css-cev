@@ -15,8 +15,14 @@ header{
     background-color: gray;
 }
 
-h1{
+header > h1{
     padding: 10px;
+    text-align: center;
+}
+
+img#burguer{
+    background-color: rgb(48, 48, 48);
+    display: block;
     text-align: center;
 }
 
@@ -33,7 +39,7 @@ menu > ul > li > a{
 
     text-align: center;
     text-decoration: none;
-    background-color: rgb(87, 83, 83);
+    background-color: rgb(68, 65, 65);
 
     color: white;
 }
