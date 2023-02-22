@@ -8,11 +8,11 @@
 
 body, html{
     
-    background-color: lightgray;
+    background-color: #453f3c;
 }
 
 header{
-    background-color: gray;
+    background-color: #5fb49c;
 }
 
 header > h1{
@@ -21,7 +21,7 @@ header > h1{
 }
 
 i#burguer{
-    background-color: rgb(48, 48, 48);
+    background-color: #645c59;
     color: white;
     display: block;
     text-align: center;
@@ -29,7 +29,7 @@ i#burguer{
 }
 
 i#burguer:hover{
-    background-color: white;
+    background-color: rgb(223, 207, 207);
     color: black;
     cursor: pointer;
 }
@@ -45,18 +45,17 @@ menu > ul > li > a{
     display: block;
     padding: 10px;
     border-top: 1px solid gray;
-    border-radius: 3px;
 
     text-align: center;
     text-decoration: none;
-    background-color: rgb(68, 65, 65);
+    background-color: #5c443b;
 
     color: white;
     
 }
 
 menu > ul > li > a:hover{
-    background-color: rgba(99, 99, 99, 0.459);
+    background-color: #a36b56;
 }
 
 main{

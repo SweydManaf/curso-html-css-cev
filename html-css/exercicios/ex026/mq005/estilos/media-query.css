@@ -23,6 +23,11 @@ Grandes telas: acima de 1200px
 
     menu > ul > li{
         display: inline-block;
+        margin: 5px;
+    }
+
+    menu > ul > li > a{
+        border-radius: 3px;
     }
 
     main{
