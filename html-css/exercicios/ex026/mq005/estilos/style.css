@@ -45,6 +45,7 @@ menu > ul > li > a{
     display: block;
     padding: 10px;
     border-top: 1px solid gray;
+    border-radius: 3px;
 
     text-align: center;
     text-decoration: none;
