@@ -45,6 +45,7 @@ NB: Posteriormente serão exibidos os certificados.
 1. [Projeto Android](https://github.com/SweydManaf/projeto-android)
 1. [Projeto Cordel](https://github.com/SweydManaf/projeto-cordel)
 1. [Projeto Redes Sociais](https://github.com/SweydManaf/projeto-social)
+1. [Projeto Login](https://github.com/SweydManaf/projeto-login)
 
 ## Anotações
  [Anotações do curso](https://github.com/SweydManaf/minhas-anotacoes/tree/main/Programa%C3%A7%C3%A3o%20%F0%9F%92%BB/Frontend/HTML_CSS%20MODERNO)
